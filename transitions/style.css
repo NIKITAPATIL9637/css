@@ -1,0 +1,20 @@
+body{
+    background-color: blanchedalmond;
+}
+#box{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    transition-property: background-color;
+    transition-duration: 3s;
+    transition-timing-function: ease-in-out;
+}
+#box:hover{
+    background-color: bisque;
+    height: 400px;
+    width: 500px;
+    border-radius: 45px;
+}

@@ -1,0 +1,35 @@
+.navbar{
+    background-color: aquamarine;
+    border-radius: 40px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+    cursor: pointer;
+}
+
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar li a:hover{
+    background-color: azure;
+}
+
+.search{
+    float: right;
+    color: black;
+    padding: 12px 75px;
+}
+
+.navbar input{
+    border: 3px solid black;
+    border-radius: 14px;
+    padding: 3px 4px;
+}

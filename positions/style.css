@@ -1,0 +1,14 @@
+.box{
+    display: inline-block;
+    border: 2px solid red;
+    width: 150px;
+    height: 150px;
+    margin: 2px;
+}
+#box1{
+    position: relative;
+    position: absolute;
+    position: static;
+    position: fixed;
+    position: sticky;  
+}

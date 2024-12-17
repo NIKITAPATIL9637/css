@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+}
+.card{
+    padding: 2px 12px;
+    margin: 12px 22px;
+    /*border: 2px solid wheat;*/
+    background-color: aqua;
+    box-shadow: 5px 5px 10px gray;
+}

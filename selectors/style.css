@@ -1,0 +1,24 @@
+/* element selector */
+p{
+    color: hotpink ;
+    background-color: beige;
+}
+/* id selector */
+#redElement{
+    color: black;
+    background-color: aqua;
+}
+/* class selector */
+.blueElement{
+    color: blue;
+    background-color: bisque;
+}
+/* Universal Selector */
+*{
+    background-color:ivory;
+}
+/* Grouping selector */
+span, footer{ 
+    background-color:papayawhip;
+    color: aqua;
+}

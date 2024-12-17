@@ -1,0 +1,35 @@
+.container{
+    border: 2px solid red;
+    background-color: aqua;
+    padding: 34px;
+    margin: 34px;
+    width: 666px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+     color: brown;
+     background-color: chocolate;
+}
+
+a.visited{
+    color: blue;
+
+}
+
+.btn{
+    background-color: aquamarine;
+    padding: 6px;
+    border: none;
+    cursor: pointer ;
+    font-size: 13px;
+    border-radius: 4px;
+}
+
+.btn:hover{
+    background-color: azure;
+}

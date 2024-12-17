@@ -1,0 +1,26 @@
+*{
+    margin: 50px;
+    padding: 0px;
+}
+.container{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    border: 2px solid black;
+    height: 400px;
+    width: 400px;
+    transform: all 0.5s ease-in-out;
+}
+.box:hover{
+    /*transform: rotate(45deg);*/
+    /*transform: scale(2);*/
+    transform: translate(123px, 123px);
+}

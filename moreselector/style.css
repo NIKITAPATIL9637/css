@@ -1,0 +1,12 @@
+h1{
+    background-color: red;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+} 
+
+/* div > p ---- selector type div ke andar(direct) any p usko property lagu hongi
+
+   div + p ---- woh paragraph jiski pichali sibling p ho wha apply hoga
+
+   
